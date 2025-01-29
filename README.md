@@ -48,18 +48,5 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 
 </details>
 
-<details>
-<summary>📸 ShareX Setup</summary>
-
-### 1. Install Application
-[Download ShareX](https://getsharex.com/)
-
-### 2. Import Settings
-1. Download: [sharex-config.sxcr](https://github.com/montdiego/windows11/blob/main/sharex/sharex-config.sxcr)
-2. In ShareX:  
-   `Tools > Import/Export > Import settings...`
-
-</details>
-
 ---
 
