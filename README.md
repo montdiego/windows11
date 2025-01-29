@@ -67,4 +67,3 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 
 ---
 
-**Note**: Replace `montdiego` in URLs with your username if forking/cloning
