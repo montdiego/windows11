@@ -18,7 +18,7 @@
   "controlStyles[6].target": "PipsPager#PinnedListPipsPager",
   "controlStyles[6].styles[0]": "Visibility=1",
   "controlStyles[7].target": "Border#AcrylicBorder",
-  "controlStyles[7].styles[0]": "Background:=<AcrylicBrush TintOpacity=\"0\" TintColor=\"Black\" TintLuminosityOpacity=\".29\" Opacity=\"1\" FallbackColor=\"#70262626\"/>",
+  "controlStyles[7].styles[0]": "Background:=<AcrylicBrush TintOpacity=\"0\" TintColor=\"Black\" TintLuminosityOpacity=\".29\" Opacity=\"1\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\"/>",
   "controlStyles[7].styles[1]": "CornerRadius=12",
   "controlStyles[7].styles[2]": "BorderBrush:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\"0\" TintLuminosityOpacity=\".25\" Opacity=\"1\"/>",
   "controlStyles[8].target": "Grid#MainContent",
