@@ -12,12 +12,12 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 | Plugin Name | Configuration File |
 |-------------|--------------------|
 | Taskbar auto-hide when maximized | Default |
-| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/clock.json) |
-| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar_size.json) |
-| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/tray_icons.json) |
-| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/notifications.json) |
-| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json) |
-| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json) |
+| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/clock.json) |
+| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/taskbar_size.json) |
+| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/tray_icons.json) |
+| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/notifications.json) |
+| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/start_menu.json) |
+| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/Windhawk/taskbar.json) |
 
 </details>
 
@@ -25,7 +25,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>🎨 Desktop Background Setup</summary>
 
 1. Download wallpaper:  
-   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/background.jpg)
+   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/Images/background.jpg)
 2. Right-click image → "Set as desktop background"
 
 </details>
@@ -41,7 +41,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 2. Start on Windows startup
 
 ### 3. Install Theme
-1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml)
+1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/Flow%20Launcher/custom_theme.xaml)
 2. Place in:  
    `%AppData%\FlowLauncher\Themes`
 
@@ -71,13 +71,13 @@ Run the following command in **PowerShell (Admin)**:
 irm 'https://christitus.com/win' | iex
 ```
 Alternatively, you can download the `.bat` script from:
-[Download Debloat Script](https://github.com/montdiego/windows11/blob/main/debloat.bat)
+[Download Debloat Script](https://github.com/montdiego/windows11/blob/main/Optimization/win11tool.bat)
 
 ### 2. Apply Recommended Settings
 - Download settings for the debloat tool:  
-  [debloat-settings.json](https://github.com/montdiego/windows11/blob/main/debloat_settings.json)
+  [debloat-settings.json](https://github.com/montdiego/windows11/blob/main/Optimization/SettingsWinUtil.json)
 - Download O&O ShutUp10++ settings:  
-  [ooshutup10-settings.cfg](https://github.com/montdiego/windows11/blob/main/ooshutup10.cfg)
+  [ooshutup10-settings.cfg](https://github.com/montdiego/windows11/blob/main/Optimization/ooshutup10.cfg)
 - **Note:** If using a desktop PC, disable **hibernation** after applying settings.
 
 </details>
