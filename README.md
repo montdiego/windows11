@@ -19,10 +19,6 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 | Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json) |
 | Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json) |
 
-**Installation Steps**:
-1. Open Windhawk
-2. Click `Install Mod` → `Import from File`
-3. Select downloaded JSON files
 
 </details>
 
