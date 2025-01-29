@@ -25,7 +25,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>🎨 Desktop Background Setup</summary>
 
 1. Download wallpaper:  
-   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/Images/background.jpg)
+   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/Images/windows-11.jpg)
 2. Right-click image → "Set as desktop background"
 
 </details>
