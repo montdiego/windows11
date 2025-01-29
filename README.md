@@ -4,20 +4,20 @@
 <summary>📌 Windhawk Mods Installation</summary>
 
 ### 1. Download Windhawk
-[Download Windhawk](https://windhawk.net/download)
+[Download Windhawk](https://windhawk.net/download){:target="_blank"}
 
 ### 2. Install Required Plugins
-Download configurations from [windows11 repository](https://github.com/montdiego/windows11):
+Download configurations from [windows11 repository](https://github.com/montdiego/windows11){:target="_blank"}:
 
 | Plugin Name | Configuration File |
 |-------------|--------------------|
 | Taskbar auto-hide when maximized | Default |
-| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/clock.json) |
-| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar_size.json) |
-| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/tray_icons.json) |
-| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/notifications.json) |
-| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json) |
-| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json) |
+| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/clock.json){:target="_blank"} |
+| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar_size.json){:target="_blank"} |
+| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/tray_icons.json){:target="_blank"} |
+| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/notifications.json){:target="_blank"} |
+| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json){:target="_blank"} |
+| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json){:target="_blank"} |
 
 </details>
 
@@ -25,7 +25,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>🎨 Desktop Background Setup</summary>
 
 1. Download wallpaper:  
-   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/background.jpg)
+   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/background.jpg){:target="_blank"}
 2. Right-click image → "Set as desktop background"
 
 </details>
@@ -34,14 +34,14 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>⚡ Flow Launcher Setup</summary>
 
 ### 1. Install Application
-[Download Flow Launcher](https://www.flowlauncher.com/#)
+[Download Flow Launcher](https://www.flowlauncher.com/#){:target="_blank"}
 
 ### 2. Apply Configuration
 1. Hide when on Tray
 2. Start on Windows startup
 
 ### 3. Install Theme
-1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml)
+1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml){:target="_blank"}
 2. Place in:  
    `%AppData%\FlowLauncher\Themes`
 
@@ -71,13 +71,13 @@ Run the following command in **PowerShell (Admin)**:
 irm 'https://christitus.com/win' | iex
 ```
 Alternatively, you can download the `.bat` script from:
-[Download Debloat Script](https://github.com/montdiego/windows11/blob/main/debloat.bat)
+[Download Debloat Script](https://github.com/montdiego/windows11/blob/main/debloat.bat){:target="_blank"}
 
 ### 2. Apply Recommended Settings
 - Download settings for the debloat tool:  
-  [debloat-settings.json](https://github.com/montdiego/windows11/blob/main/debloat_settings.json)
+  [debloat-settings.json](https://github.com/montdiego/windows11/blob/main/debloat_settings.json){:target="_blank"}
 - Download O&O ShutUp10++ settings:  
-  [ooshutup10-settings.cfg](https://github.com/montdiego/windows11/blob/main/ooshutup10.cfg)
+  [ooshutup10-settings.cfg](https://github.com/montdiego/windows11/blob/main/ooshutup10.cfg){:target="_blank"}
 - **Note:** If using a desktop PC, disable **hibernation** after applying settings.
 
 </details>
@@ -86,6 +86,6 @@ Alternatively, you can download the `.bat` script from:
 <summary>🧹 Windows Cleaning & Optimization</summary>
 
 Use **CCleaner Portable** for cleaning, optimizing, and removing unnecessary files:
-[Download CCleaner Portable](https://portableapps.com/apps/utilities/ccportable)
+[Download CCleaner Portable](https://portableapps.com/apps/utilities/ccportable){:target="_blank"}
 
 </details>
