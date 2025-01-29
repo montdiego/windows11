@@ -39,7 +39,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>⚡ Flow Launcher Setup</summary>
 
 ### 1. Install Application
-[Download Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher/releases)
+[Download Flow Launcher](https://www.flowlauncher.com/#)
 
 ### 2. Apply Configuration
 1.- Hide when on Try
