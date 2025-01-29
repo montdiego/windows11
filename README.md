@@ -4,20 +4,20 @@
 <summary>📌 Windhawk Mods Installation</summary>
 
 ### 1. Download Windhawk
-<a href="https://windhawk.net/download" target="_blank" rel="noopener noreferrer">Download Windhawk</a>
+[Download Windhawk](https://windhawk.net/download)
 
 ### 2. Install Required Plugins
-Download configurations from <a href="https://github.com/montdiego/windows11" target="_blank" rel="noopener noreferrer">windows11 repository</a>:
+Download configurations from [windows11 repository](https://github.com/montdiego/windows11):
 
 | Plugin Name | Configuration File |
 |-------------|--------------------|
 | Taskbar auto-hide when maximized | Default |
-| Taskbar Clock Customization | <a href="https://github.com/montdiego/windows11/blob/main/clock.json" target="_blank" rel="noopener noreferrer">config.json</a> |
-| Taskbar height and icon size | <a href="https://github.com/montdiego/windows11/blob/main/taskbar_size.json" target="_blank" rel="noopener noreferrer">config.json</a> |
-| Taskbar tray system icon tweaks | <a href="https://github.com/montdiego/windows11/blob/main/tray_icons.json" target="_blank" rel="noopener noreferrer">config.json</a> |
-| Notification Center Styler | <a href="https://github.com/montdiego/windows11/blob/main/notifications.json" target="_blank" rel="noopener noreferrer">config.json</a> |
-| Start Menu Styler | <a href="https://github.com/montdiego/windows11/blob/main/start_menu.json" target="_blank" rel="noopener noreferrer">config.json</a> |
-| Taskbar Styler | <a href="https://github.com/montdiego/windows11/blob/main/taskbar.json" target="_blank" rel="noopener noreferrer">config.json</a> |
+| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/clock.json) |
+| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar_size.json) |
+| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/tray_icons.json) |
+| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/notifications.json) |
+| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json) |
+| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json) |
 
 </details>
 
@@ -25,7 +25,7 @@ Download configurations from <a href="https://github.com/montdiego/windows11" ta
 <summary>🎨 Desktop Background Setup</summary>
 
 1. Download wallpaper:  
-   <a href="https://github.com/montdiego/windows11/blob/main/background.jpg" target="_blank" rel="noopener noreferrer">custom-background.jpg</a>
+   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/background.jpg)
 2. Right-click image → "Set as desktop background"
 
 </details>
@@ -34,14 +34,14 @@ Download configurations from <a href="https://github.com/montdiego/windows11" ta
 <summary>⚡ Flow Launcher Setup</summary>
 
 ### 1. Install Application
-<a href="https://www.flowlauncher.com/#" target="_blank" rel="noopener noreferrer">Download Flow Launcher</a>
+[Download Flow Launcher](https://www.flowlauncher.com/#)
 
 ### 2. Apply Configuration
 1. Hide when on Tray
 2. Start on Windows startup
 
 ### 3. Install Theme
-1. Download: <a href="https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml" target="_blank" rel="noopener noreferrer">theme.json</a>
+1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml)
 2. Place in:  
    `%AppData%\FlowLauncher\Themes`
 
@@ -71,13 +71,13 @@ Run the following command in **PowerShell (Admin)**:
 irm 'https://christitus.com/win' | iex
 ```
 Alternatively, you can download the `.bat` script from:
-<a href="https://github.com/montdiego/windows11/blob/main/debloat.bat" target="_blank" rel="noopener noreferrer">Download Debloat Script</a>
+[Download Debloat Script](https://github.com/montdiego/windows11/blob/main/debloat.bat)
 
 ### 2. Apply Recommended Settings
 - Download settings for the debloat tool:  
-  <a href="https://github.com/montdiego/windows11/blob/main/debloat_settings.json" target="_blank" rel="noopener noreferrer">debloat-settings.json</a>
+  [debloat-settings.json](https://github.com/montdiego/windows11/blob/main/debloat_settings.json)
 - Download O&O ShutUp10++ settings:  
-  <a href="https://github.com/montdiego/windows11/blob/main/ooshutup10.cfg" target="_blank" rel="noopener noreferrer">ooshutup10-settings.cfg</a>
+  [ooshutup10-settings.cfg](https://github.com/montdiego/windows11/blob/main/ooshutup10.cfg)
 - **Note:** If using a desktop PC, disable **hibernation** after applying settings.
 
 </details>
@@ -86,6 +86,6 @@ Alternatively, you can download the `.bat` script from:
 <summary>🧹 Windows Cleaning & Optimization</summary>
 
 Use **CCleaner Portable** for cleaning, optimizing, and removing unnecessary files:
-<a href="https://portableapps.com/apps/utilities/ccportable" target="_blank" rel="noopener noreferrer">Download CCleaner Portable</a>
+[Download CCleaner Portable](https://portableapps.com/apps/utilities/ccportable)
 
 </details>
