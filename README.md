@@ -12,12 +12,12 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 | Plugin Name | Configuration File |
 |-------------|--------------------|
 | Taskbar auto-hide when maximized | Default |
-| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-clock-config.json) |
-| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-height-config.json) |
-| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-tray-config.json) |
-| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/notification-center-config.json) |
-| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/start-menu-config.json) |
-| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-styler-config.json) |
+| Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/clock.json) |
+| Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar_size.json) |
+| Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/tray_icons.json) |
+| Notification Center Styler | [config.json](https://github.com/montdiego/windows11/blob/main/notifications.json) |
+| Start Menu Styler | [config.json](https://github.com/montdiego/windows11/blob/main/start_menu.json) |
+| Taskbar Styler | [config.json](https://github.com/montdiego/windows11/blob/main/taskbar.json) |
 
 **Installation Steps**:
 1. Open Windhawk
@@ -30,7 +30,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 <summary>🎨 Desktop Background Setup</summary>
 
 1. Download wallpaper:  
-   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/wallpapers/custom-background.jpg)
+   [custom-background.jpg](https://github.com/montdiego/windows11/blob/main/background.jpg)
 2. Right-click image → "Set as desktop background"
 
 </details>
@@ -42,13 +42,11 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 [Download Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher/releases)
 
 ### 2. Apply Configuration
-1. Download: [config.json](https://github.com/montdiego/windows11/blob/main/flow-launcher/config.json)
-2. Press `Win + R` and paste:  
-   `%AppData%\FlowLauncher\Settings`
-3. Replace existing `Settings.json`
+1.- Hide when on Try
+2.- Start UP on windows start
 
 ### 3. Install Theme
-1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow-launcher/theme.json)
+1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml)
 2. Place in:  
    `%AppData%\FlowLauncher\Themes`
 
