@@ -11,7 +11,7 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 
 | Plugin Name | Configuration File |
 |-------------|--------------------|
-| Taskbar auto-hide when maximized | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-auto-hide-config.json) |
+| Taskbar auto-hide when maximized | Default |
 | Taskbar Clock Customization | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-clock-config.json) |
 | Taskbar height and icon size | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-height-config.json) |
 | Taskbar tray system icon tweaks | [config.json](https://github.com/montdiego/windows11/blob/main/windhawk/taskbar-tray-config.json) |
