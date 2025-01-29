@@ -38,8 +38,8 @@ Download configurations from [windows11 repository](https://github.com/montdiego
 [Download Flow Launcher](https://www.flowlauncher.com/#)
 
 ### 2. Apply Configuration
-1.- Hide when on Try
-2.- Start UP on windows start
+1. Hide when on Try
+2. Start UP on windows start
 
 ### 3. Install Theme
 1. Download: [theme.json](https://github.com/montdiego/windows11/blob/main/flow_launcher.xaml)
